@@ -1,0 +1,20 @@
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\bin\Debug\Buton Sürükleyerek Oluşturma.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\bin\Debug\Buton Sürükleyerek Oluşturma.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\bin\Debug\Buton Sürükleyerek Oluşturma.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\obj\Debug\Buton_Sürükleyerek_Oluşturma.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\obj\Debug\Buton_Sürükleyerek_Oluşturma.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.pdb
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\bin\Debug\Buton Sürükleyerek Oluşturma.exe.config
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\bin\Debug\Buton Sürükleyerek Oluşturma.exe
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\bin\Debug\Buton Sürükleyerek Oluşturma.pdb
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\obj\Debug\Buton_Sürükleyerek_Oluşturma.Form1.resources
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\obj\Debug\Buton_Sürükleyerek_Oluşturma.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.exe
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Buton Sürükleyerek Oluşturma\obj\Debug\Buton Sürükleyerek Oluşturma.pdb

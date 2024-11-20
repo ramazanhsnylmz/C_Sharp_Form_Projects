@@ -1,0 +1,20 @@
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\bin\Debug\TC Kimlik Kontrolü.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\bin\Debug\TC Kimlik Kontrolü.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\bin\Debug\TC Kimlik Kontrolü.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\obj\Debug\TC Kimlik Kontrolü.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\obj\Debug\TC_Kimlik_Kontrolü.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\obj\Debug\TC_Kimlik_Kontrolü.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\obj\Debug\TC Kimlik Kontrolü.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\obj\Debug\TC Kimlik Kontrolü.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\obj\Debug\TC Kimlik Kontrolü.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü\obj\Debug\TC Kimlik Kontrolü.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\bin\Debug\TC Kimlik Kontrolü.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\bin\Debug\TC Kimlik Kontrolü.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\bin\Debug\TC Kimlik Kontrolü.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\obj\Debug\TC Kimlik Kontrolü.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\obj\Debug\TC_Kimlik_Kontrolü.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\obj\Debug\TC_Kimlik_Kontrolü.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\obj\Debug\TC Kimlik Kontrolü.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\obj\Debug\TC Kimlik Kontrolü.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\obj\Debug\TC Kimlik Kontrolü.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\TC Kimlik Kontrolü+\obj\Debug\TC Kimlik Kontrolü.pdb

@@ -1,0 +1,30 @@
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\bin\Debug\Santranc Tahtası.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\bin\Debug\Santranc Tahtası.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\bin\Debug\Santranc Tahtası.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc_Tahtası.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc_Tahtası.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\C# Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\bin\Debug\Santranc Tahtası.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\bin\Debug\Santranc Tahtası.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\bin\Debug\Santranc Tahtası.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc_Tahtası.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc_Tahtası.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Santranc Tahtası\obj\Debug\Santranc Tahtası.pdb
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\bin\Debug\Santranc Tahtası.exe.config
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\bin\Debug\Santranc Tahtası.exe
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\bin\Debug\Santranc Tahtası.pdb
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\obj\Debug\Santranc Tahtası.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\obj\Debug\Santranc_Tahtası.Form1.resources
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\obj\Debug\Santranc_Tahtası.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\obj\Debug\Santranc Tahtası.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\obj\Debug\Santranc Tahtası.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\obj\Debug\Santranc Tahtası.exe
+C:\Users\Ramazan\Desktop\Yazilim\C# Form\C_Sharp_Form\Okul\Santranc Tahtası\obj\Debug\Santranc Tahtası.pdb

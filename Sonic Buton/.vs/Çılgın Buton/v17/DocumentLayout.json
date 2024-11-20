@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramazan\\Desktop\\Yazilim\\C#\\Di\u011Fer\\E\u011Fitim\\G\u00F6rsel Programlama\\OKUL\\Sonic Buton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5457147-D497-4ABD-B267-7ED4810CF8E2}|\u00C7\u0131lg\u0131n Buton.csproj|c:\\users\\ramazan\\desktop\\yazilim\\c#\\di\u011Fer\\e\u011Fitim\\g\u00F6rsel programlama\\okul\\sonic buton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5457147-D497-4ABD-B267-7ED4810CF8E2}|\u00C7\u0131lg\u0131n Buton.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5457147-D497-4ABD-B267-7ED4810CF8E2}|\u00C7\u0131lg\u0131n Buton.csproj|c:\\users\\ramazan\\desktop\\yazilim\\c#\\di\u011Fer\\e\u011Fitim\\g\u00F6rsel programlama\\okul\\sonic buton\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5457147-D497-4ABD-B267-7ED4810CF8E2}|\u00C7\u0131lg\u0131n Buton.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5457147-D497-4ABD-B267-7ED4810CF8E2}|\u00C7\u0131lg\u0131n Buton.csproj|C:\\Users\\Ramazan\\Desktop\\Yazilim\\C#\\Di\u011Fer\\E\u011Fitim\\G\u00F6rsel Programlama\\OKUL\\Sonic Buton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5457147-D497-4ABD-B267-7ED4810CF8E2}|\u00C7\u0131lg\u0131n Buton.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\Desktop\\Yazilim\\C#\\Di\u011Fer\\E\u011Fitim\\G\u00F6rsel Programlama\\OKUL\\Sonic Buton\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\Desktop\\Yazilim\\C#\\Di\u011Fer\\E\u011Fitim\\G\u00F6rsel Programlama\\OKUL\\Sonic Buton\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:07:12.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\Desktop\\Yazilim\\C#\\Di\u011Fer\\E\u011Fitim\\G\u00F6rsel Programlama\\OKUL\\Sonic Buton\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\Desktop\\Yazilim\\C#\\Di\u011Fer\\E\u011Fitim\\G\u00F6rsel Programlama\\OKUL\\Sonic Buton\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:01:27.214Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\Desktop\\Yazilim\\C#\\Di\u011Fer\\E\u011Fitim\\G\u00F6rsel Programlama\\OKUL\\Sonic Buton\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\Desktop\\Yazilim\\C#\\Di\u011Fer\\E\u011Fitim\\G\u00F6rsel Programlama\\OKUL\\Sonic Buton\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:10:30.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

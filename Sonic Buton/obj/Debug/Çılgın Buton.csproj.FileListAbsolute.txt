@@ -1,0 +1,40 @@
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\bin\Debug\Çılgın Buton.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\bin\Debug\Çılgın Buton.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\bin\Debug\Çılgın Buton.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\obj\Debug\Çılgın Buton.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\obj\Debug\Çılgın_Buton.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\obj\Debug\Çılgın_Buton.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\obj\Debug\Çılgın Buton.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\obj\Debug\Çılgın Buton.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\obj\Debug\Çılgın Buton.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Çılgın Buton\obj\Debug\Çılgın Buton.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\bin\Debug\Çılgın Buton.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\bin\Debug\Çılgın Buton.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\bin\Debug\Çılgın Buton.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın_Buton.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın_Buton.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\bin\Debug\Çılgın Buton.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\bin\Debug\Çılgın Buton.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\bin\Debug\Çılgın Buton.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\obj\Debug\Çılgın Buton.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\obj\Debug\Çılgın_Buton.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\obj\Debug\Çılgın_Buton.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\obj\Debug\Çılgın Buton.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\obj\Debug\Çılgın Buton.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\obj\Debug\Çılgın Buton.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton+\obj\Debug\Çılgın Buton.pdb
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\bin\Debug\Çılgın Buton.exe.config
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\bin\Debug\Çılgın Buton.exe
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\bin\Debug\Çılgın Buton.pdb
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın_Buton.Form1.resources
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın_Buton.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.exe
+C:\Users\Ramazan\Desktop\Yazilim\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Sonic Buton\obj\Debug\Çılgın Buton.pdb

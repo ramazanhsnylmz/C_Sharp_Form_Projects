@@ -1,0 +1,10 @@
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\bin\Debug\Tab Order Ayarlama.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\bin\Debug\Tab Order Ayarlama.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\bin\Debug\Tab Order Ayarlama.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\obj\Debug\Tab Order Ayarlama.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\obj\Debug\Tab_Order_Ayarlama.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\obj\Debug\Tab_Order_Ayarlama.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\obj\Debug\Tab Order Ayarlama.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\obj\Debug\Tab Order Ayarlama.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\obj\Debug\Tab Order Ayarlama.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Tab Order Ayarlama\obj\Debug\Tab Order Ayarlama.pdb

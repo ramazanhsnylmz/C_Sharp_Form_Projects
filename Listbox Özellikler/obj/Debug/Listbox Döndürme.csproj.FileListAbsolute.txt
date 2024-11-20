@@ -1,0 +1,40 @@
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\bin\Debug\Listbox Döndürme.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\bin\Debug\Listbox Döndürme.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\bin\Debug\Listbox Döndürme.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\obj\Debug\Listbox Döndürme.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\obj\Debug\Listbox_Döndürme.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\obj\Debug\Listbox_Döndürme.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\obj\Debug\Listbox Döndürme.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\obj\Debug\Listbox Döndürme.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\obj\Debug\Listbox Döndürme.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Döndürme\obj\Debug\Listbox Döndürme.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\bin\Debug\Listbox Döndürme.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\bin\Debug\Listbox Döndürme.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\bin\Debug\Listbox Döndürme.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox_Döndürme.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox_Döndürme.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\bin\Debug\Listbox Döndürme.exe.config
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\bin\Debug\Listbox Döndürme.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\bin\Debug\Listbox Döndürme.pdb
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\obj\Debug\Listbox Döndürme.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\obj\Debug\Listbox_Döndürme.Form1.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\obj\Debug\Listbox_Döndürme.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\obj\Debug\Listbox Döndürme.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\obj\Debug\Listbox Döndürme.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\obj\Debug\Listbox Döndürme.exe
+C:\Users\Ramazan\Desktop\Yazılım\C#\Diğer\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler+\obj\Debug\Listbox Döndürme.pdb
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\bin\Debug\Listbox Döndürme.exe.config
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\bin\Debug\Listbox Döndürme.exe
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\bin\Debug\Listbox Döndürme.pdb
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox_Döndürme.Form1.resources
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox_Döndürme.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.exe
+C:\Users\Ramazan\Desktop\Yazilim\C#\Okul\Eğitim\Görsel Programlama\OKUL\Listbox Özellikler\obj\Debug\Listbox Döndürme.pdb
